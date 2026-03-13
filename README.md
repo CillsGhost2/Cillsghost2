@@ -59,8 +59,9 @@ Meu repositório é um laboratório. Aqui estão alguns dos projetos que decidi 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CillsGhost2&label=VISITAS&color=blueviolet&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=CillsGhost2&label=VISITAS&color=blueviolet&style=for-the-badge&base=95999999&abbreviated=true" alt="Visitors" />
 </p>
+// É zoas kkk
 <p align="center">
   <img src="https://github.com/CillsGhost2/CillsGhost2/blob/main/glitch_402565.svg?short_path=746514f" alt="Frô" width="400" />
 </p>
