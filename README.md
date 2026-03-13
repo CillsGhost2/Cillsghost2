@@ -62,5 +62,5 @@ Meu repositório é um laboratório. Aqui estão alguns dos projetos que decidi 
   <img src="https://profile-counter.glitch.me/CillsGhost2/count.svg" alt="Visitors" />
 </p>
 <p align="center">
-  <img src="https://github.com/CillsGhost2/CillsGhost2/blob/main/glitch_402565.svg?short_path=746514f" alt="Frô" width="50" />
+  <img src="https://github.com/CillsGhost2/CillsGhost2/blob/main/glitch_402565.svg?short_path=746514f" alt="Frô" width="400" />
 </p>
